@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🌱 I’m currently learning Spring Boot, Flutter and Scrum.<br>
-- 🤔 I am looking for help to get a job.<br>
+
 
 
 ## 🌐 Socials:
